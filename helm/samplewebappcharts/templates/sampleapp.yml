@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: samplewebapp
-          image: juliamayt/samplewebapp:latest
+          image: juliamayt/samplewebapptcc:latest
           ports:
             - name: sampleapp-port
               containerPort: 8080
