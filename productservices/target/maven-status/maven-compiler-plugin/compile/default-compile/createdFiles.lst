@@ -1,0 +1,5 @@
+com/julia/product/dto/Product.class
+com/julia/product/bo/ProductBO.class
+com/julia/product/dao/ProductDAOImpl.class
+com/julia/product/bo/ProductBOImpl.class
+com/julia/product/dao/ProductDAO.class
