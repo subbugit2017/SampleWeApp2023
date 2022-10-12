@@ -56,6 +56,7 @@ pipeline {
                     -Dsonar.java.binaries=productservices/target/classes/com/julia/product/ \
                     -Dsonar.junit.reportsPath=productservices/target/surefire-reports/ \
                     -Dsonar.jacoco.reportsPath=productservices/target/jacoco.exec \
+                    -Dsonar.java.libraries=productweb/target/productweb/WEB-INF/lib \
                     -Dsonar.java.checkstyle.reportPaths=productweb/target/checkstyle-result.xml '''
                 }
             }
