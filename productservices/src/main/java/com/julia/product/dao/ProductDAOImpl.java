@@ -2,6 +2,7 @@ package com.julia.product.dao;
 
 
 import java.util.Map;
+import java.util.HashMap;
 
 import com.julia.product.dto.Product;
 
