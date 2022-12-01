@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>New Register Product Application!!</h2>
+<h2>Register Product Application!</h2>
 </body>
 </html>
