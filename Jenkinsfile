@@ -13,7 +13,7 @@ pipeline {
 	stages {
 	    stage('Fetch code') {
             steps {
-               git branch: 'master', url: 'https://github.com/mayumiju/SampleWeAppTcc.git'
+               git branch: 'master', url: 'https://github.com/subbugit2017/SampleWeApp2023.git'
             }
 
 	    }
